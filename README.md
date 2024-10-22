@@ -38,14 +38,21 @@ The system is designed to showcase fundamental PHP operations including database
 
 Folder Structure:
 
-/user_auth
-  ├── signup.php               # User registration page
-  ├── login.php                # User login page
-  ├── change_password.php      # Password change page
-  ├── delete_account.php       # Account deletion page
-  ├── logout.php               # Logout handler
-  ├── db.php                   # Database connection setup
-  ├── README.md                # Documentation of the project
+/gpc
+  ├── signup.php             
+  # User registration page
+  ├── login.php               
+  # User login page
+  ├── change_password.php      
+  # Password change page
+  ├── delete_account.php      
+  # Account deletion page
+  ├── logout.php              
+  # Logout handler
+  ├── db.php                  
+  # Database connection setup
+  ├── README.md              
+  # Documentation of the project
 
 
 ---
